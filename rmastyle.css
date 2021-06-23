@@ -1,0 +1,83 @@
+.BANNERCONTACT{
+     display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    padding: 0.5cm;
+    margin: 0.2cm;
+    
+ }
+
+ .styl{
+    position:absolute; 
+    left:1160px; 
+    top:155px;
+ }
+
+ .styl1{
+    position:absolute; 
+    left:80px; 
+    top:110px;
+ }
+
+ .styl0{
+    position:absolute; 
+    left:1050px; 
+    top:160px;
+ }
+
+ .mrqstyl{
+    font-size: 1.8cm;
+    color: white;
+   align-items: center;
+   
+ }
+
+ .hr00{
+  
+      border: 10px solid red;
+      border-radius: 5px;
+    
+ }
+
+ #ytig{
+    color: blue;
+    text-decoration: underline;
+    position: absolute;
+    top: 450px;
+ }
+
+ .hr01{
+   border: 5px solid black;
+   border-radius: 5px;
+ }
+
+ .teacherintro{
+   border: 2;
+   border-style: groove;
+   border-color: black;
+   margin: 0.25cm; 
+  padding: 0.5cm;
+  background-color: lightblue;
+  border-radius: 0.25cm;
+ }
+ .teacherintro0{
+   position: absolute;
+   top: 1300px;
+   border: 2;
+   border-style: groove;
+   border-color: white;
+   margin: 00.25cm;
+   margin-left: 16cm;
+  padding: 0.5cm;
+  width: 800px;
+height: 500px; 
+  background-color: rgb(146, 247, 247);
+  border-radius: 0.25cm;
+ }
+
+ #AAOT{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    font-family: Comic Sans MS;
+ }
